@@ -11,7 +11,7 @@ jobs:
      - name: Hello World Action by Michelle Berrio Sanchez
        uses: Michelle453/hello-world-js-action@v1.0
        with: 
-         who-to-great: 'Michelle' 
+         who-to-greet: 'Michelle' 
      - name: Checkout
        uses: actions/checkout@v4.2.2
 
